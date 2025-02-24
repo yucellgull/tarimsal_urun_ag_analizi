@@ -1,3 +1,4 @@
+# Tarımsal Ürün Öneri Sistemi 
+Bu çalışma, bölgesel iklim verileri ve rakım bilgisini kullanarak makine öğrenmesi algoritmaları ve MLP derin öğrenme algoritmaları ile bir tarımsal ürün önerme sistemi geliştirmeyi amaçlamaktadır. Sistem, belirli bir bölgedeki iklim koşulları ve rakım değerlerine göre, yetiştirilmesi en uygun ve verimli olabilecek tarım ürünlerini tahmin etmektedir. Çalışmada, çeşitli kaynaklardan[1][2] elde edilen iklim, rakım ve ürün verimliliği verileri kullanılarak bir veri seti oluşturulmuş ve bu veri seti üzerinde MLP derin öğrenme modeli eğitilmiştir. Elde edilen sonuçlar, sistemin [mse': 5349.197490745407, 'rmse': 73.13820814557468, 'mae': 50.84050272323474, 'r2': 0.7363548857051848] oranında doğru tahminler yapabildiğini göstermektedir. Bu sistem, çiftçilere ürün seçimi konusunda önemli bir destek sağlayarak tarımsal verimliliğin artmasına katkıda bulunabilir.
+!![image](https://github.com/user-attachments/assets/f91c189e-dd74-4219-a3ca-59da01adf113)
 
-
-[cıktı.pdf](https://github.com/user-attachments/files/18940808/cikti.pdf)
